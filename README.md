@@ -8,9 +8,10 @@ The main scene attaches a sandboxed script to a label and calls its methods, the
 
 ## Build and run
 
+    godot --path . --import
     godot --path .
 
-The project needs a double-precision engine build.
+The import registers the sandbox extension on a fresh clone. The project needs a double-precision engine build.
 
 ## Licence
 
