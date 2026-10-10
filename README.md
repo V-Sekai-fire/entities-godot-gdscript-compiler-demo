@@ -15,4 +15,4 @@ The import registers the sandbox extension on a fresh clone. The project needs a
 
 ## Licence
 
-The licence is not stated.
+MIT. See [LICENSE](LICENSE).
